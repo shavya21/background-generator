@@ -1,0 +1,41 @@
+body,
+html { width:100px;
+	height:100px;
+	font-family: 'montserrat',sans-serif;
+  background: url('https://miro.medium.com/max/11996/0*evFVkbBTP9EvKX4X') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	color:#3a424a;
+	font-size: 3rem;
+}
+h1:hover{
+	color:#f13f28;
+}
+.buffer{height:50px;}
+.btn-xl {
+	padding:5px 10px;
+	width:200px;}
+
+.btn{
+	font-weight: 700;
+	border-radius:100px;
+	text-transform: uppercase;
+}
+.btn-primary{
+	border-color: #3a424a;
+	background-color:#3a424a;
+}
+.btn-primary:hover{
+	border-color: #f13f28;
+	background-color:#f13f28;
+	border-width: 5px;
+}
+hr{
+	border-color:#3a424a;
+	border-width: 3px;
+	max-width:65px;
+}
